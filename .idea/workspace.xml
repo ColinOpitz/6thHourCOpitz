@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="61cda357-e696-441a-ac0f-e70b811b278a" name="Changes" comment="Initial Commit" />
+    <list default="true" id="61cda357-e696-441a-ac0f-e70b811b278a" name="Changes" comment="Added HW1 Comments and &quot;Hello&quot;" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,21 +20,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "ColinOpitz"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;ColinOpitz&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/ColinOpitz/6thHourCOpitz.git",
-    "accountId": "db87659c-d066-4fc7-86b0-9e394150d502"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/ColinOpitz/6thHourCOpitz.git&quot;,
+    &quot;accountId&quot;: &quot;db87659c-d066-4fc7-86b0-9e394150d502&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2kkhakBxNDzuKQKYayZHFqLherN" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -43,6 +43,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.HW1.executor": "Run",
     "Python.HelloWorld.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
@@ -72,11 +73,28 @@
       <option name="project" value="LOCAL" />
       <updated>1723834084773</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added HW1 Comments and &quot;Hello&quot;">
+      <option name="closed" value="true" />
+      <created>1724093631330</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1724093631330</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Added HW1 Comments and &quot;Hello&quot;">
+      <option name="closed" value="true" />
+      <created>1724093637519</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1724093637519</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
+    <MESSAGE value="Added HW1 Comments and &quot;Hello&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added HW1 Comments and &quot;Hello&quot;" />
   </component>
 </project>
