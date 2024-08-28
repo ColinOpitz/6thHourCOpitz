@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="61cda357-e696-441a-ac0f-e70b811b278a" name="Changes" comment="Added HW1 Comments and &quot;Hello&quot;" />
+    <list default="true" id="61cda357-e696-441a-ac0f-e70b811b278a" name="Changes" comment="Added Comments, Hello World print, Name input, and number input.">
+      <change afterPath="$PROJECT_DIR$/HW3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,6 +47,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.HW1.executor": "Run",
+    "Python.HW2.executor": "Run",
+    "Python.HW3.executor": "Run",
     "Python.HelloWorld.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
@@ -89,12 +94,29 @@
       <option name="project" value="LOCAL" />
       <updated>1724093637519</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Added HW1 Comments and &quot;Hello&quot;">
+      <option name="closed" value="true" />
+      <created>1724093734327</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1724093734327</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Added Comments, Hello World print, Name input, and number input.">
+      <option name="closed" value="true" />
+      <created>1724351907701</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1724351907701</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Commit" />
     <MESSAGE value="Added HW1 Comments and &quot;Hello&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added HW1 Comments and &quot;Hello&quot;" />
+    <MESSAGE value="Added Comments, Hello World print, Name input, and number input." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Comments, Hello World print, Name input, and number input." />
   </component>
 </project>
