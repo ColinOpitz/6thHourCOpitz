@@ -9,7 +9,7 @@ userName = input("What is your name? ")
 print("Hello", userName)
 input("Would you like to play Rock Paper Scissors?")
 
-user_action = input("Enter a choice(rock, paper, scissors):")
+user_action = input("Enter a choice(rock, paper, scissors:"   )
 possible_actions = ["rock", "paper", "scissors"]
 computer_action = random.choice(possible_actions)
 print(f"You chose {user_action}, computer chose {computer_action}.")

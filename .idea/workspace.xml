@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="61cda357-e696-441a-ac0f-e70b811b278a" name="Changes" comment="Added Comments, Hello World print, Name list, and number list.">
-      <change afterPath="$PROJECT_DIR$/Playground.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW4.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Playground.py" beforeDir="false" afterPath="$PROJECT_DIR$/Playground.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +36,9 @@
     &quot;accountId&quot;: &quot;db87659c-d066-4fc7-86b0-9e394150d502&quot;
   }
 }</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -49,6 +53,7 @@
     "Python.HW1.executor": "Run",
     "Python.HW2.executor": "Run",
     "Python.HW3.executor": "Run",
+    "Python.HW4.executor": "Run",
     "Python.HelloWorld.executor": "Run",
     "Python.Playground.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -127,7 +132,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724871751080</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Added Comments, Hello World print, Name list, and number list.">
+      <option name="closed" value="true" />
+      <created>1725648228498</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1725648228498</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
