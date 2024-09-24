@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="61cda357-e696-441a-ac0f-e70b811b278a" name="Changes" comment="Added HW4">
-      <change afterPath="$PROJECT_DIR$/Scenario.py" afterDir="false" />
+    <list default="true" id="61cda357-e696-441a-ac0f-e70b811b278a" name="Changes" comment="Added Scenario 1 code">
+      <change afterPath="$PROJECT_DIR$/Scenario 2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,6 +55,7 @@
     "Python.HW4.executor": "Run",
     "Python.HelloWorld.executor": "Run",
     "Python.Playground.executor": "Run",
+    "Python.Scenario 2.executor": "Run",
     "Python.Scenario.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
@@ -148,7 +149,23 @@
       <option name="project" value="LOCAL" />
       <updated>1726168056122</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Added HW4">
+      <option name="closed" value="true" />
+      <created>1726684918937</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1726684918937</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Added Scenario 1 code">
+      <option name="closed" value="true" />
+      <created>1726684949570</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1726684949570</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -157,7 +174,8 @@
     <MESSAGE value="Added Comments, Hello World print, Name input, and number input." />
     <MESSAGE value="Added Comments, Hello World print, Name list, and number list." />
     <MESSAGE value="Added HW4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added HW4" />
+    <MESSAGE value="Added Scenario 1 code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Scenario 1 code" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
