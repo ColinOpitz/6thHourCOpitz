@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="61cda357-e696-441a-ac0f-e70b811b278a" name="Changes" comment="Added HW5 code.">
-      <change afterPath="$PROJECT_DIR$/HW6.py" afterDir="false" />
+    <list default="true" id="61cda357-e696-441a-ac0f-e70b811b278a" name="Changes" comment="Printed Helo World, set num as a variable, and added nested if statements.">
+      <change afterPath="$PROJECT_DIR$/HW7.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,6 +55,7 @@
     "Python.HW4.executor": "Run",
     "Python.HW5.executor": "Run",
     "Python.HW6.executor": "Run",
+    "Python.HW7.executor": "Run",
     "Python.HelloWorld.executor": "Run",
     "Python.Playground.executor": "Run",
     "Python.Scenario 2.executor": "Run",
@@ -183,7 +184,23 @@
       <option name="project" value="LOCAL" />
       <updated>1727463751092</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Added HW5 code.">
+      <option name="closed" value="true" />
+      <created>1727722939361</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1727722939361</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Printed Helo World, set num as a variable, and added nested if statements.">
+      <option name="closed" value="true" />
+      <created>1727723033766</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1727723033766</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -193,8 +210,10 @@
     <MESSAGE value="Added Comments, Hello World print, Name list, and number list." />
     <MESSAGE value="Added HW4" />
     <MESSAGE value="Added Scenario 1 code" />
+    <MESSAGE value="Printed Hello World, set num as a variable, and added nested if statements." />
     <MESSAGE value="Added HW5 code." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added HW5 code." />
+    <MESSAGE value="Printed Helo World, set num as a variable, and added nested if statements." />
+    <option name="LAST_COMMIT_MESSAGE" value="Printed Helo World, set num as a variable, and added nested if statements." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
