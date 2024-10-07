@@ -20,11 +20,10 @@ if wifi:
         if admin:
             print("Welcome!")
             adminlogincredentials += 1
-
-if not wifi:
-    print("Error no wifi detected.")
-    if not login:
+            print(f"Admin login count increased: {adminlogincredentials} ")
+        else:
+            print("Error admin not detected.")
+    else:
         print("Error login info incorrect.")
-        if not admin:
-            print("Error you are not the admin.")
-print(f"Admin login count increased: {adminlogincredentials} ")
+else:
+    print("Error no wifi connection.")
