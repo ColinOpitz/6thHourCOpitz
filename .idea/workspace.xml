@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="61cda357-e696-441a-ac0f-e70b811b278a" name="Changes" comment="Printed Helo World, set boolean variables, and added nested if statements.">
+    <list default="true" id="61cda357-e696-441a-ac0f-e70b811b278a" name="Changes" comment="Printed Helo World, set boolean variables, and added nested if statements. Fixed nested error statements">
+      <change afterPath="$PROJECT_DIR$/Scenario 3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW7.py" beforeDir="false" afterPath="$PROJECT_DIR$/HW7.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,23 +47,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.HW1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HW2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HW3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HW4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HW5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HW6.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HW7.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HelloWorld.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Playground.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Scenario 2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Scenario.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.HW1.executor": "Run",
+    "Python.HW2.executor": "Run",
+    "Python.HW3.executor": "Run",
+    "Python.HW4.executor": "Run",
+    "Python.HW5.executor": "Run",
+    "Python.HW6.executor": "Run",
+    "Python.HW7.executor": "Run",
+    "Python.HelloWorld.executor": "Run",
+    "Python.Playground.executor": "Run",
+    "Python.Scenario 2.executor": "Run",
+    "Python.Scenario 3.executor": "Run",
+    "Python.Scenario.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -208,7 +209,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727982498510</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Printed Helo World, set boolean variables, and added nested if statements. Fixed nested error statements">
+      <option name="closed" value="true" />
+      <created>1728326411832</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1728326411832</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -222,7 +231,8 @@
     <MESSAGE value="Added HW5 code." />
     <MESSAGE value="Printed Helo World, set num as a variable, and added nested if statements." />
     <MESSAGE value="Printed Helo World, set boolean variables, and added nested if statements." />
-    <option name="LAST_COMMIT_MESSAGE" value="Printed Helo World, set boolean variables, and added nested if statements." />
+    <MESSAGE value="Printed Helo World, set boolean variables, and added nested if statements. Fixed nested error statements" />
+    <option name="LAST_COMMIT_MESSAGE" value="Printed Helo World, set boolean variables, and added nested if statements. Fixed nested error statements" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
