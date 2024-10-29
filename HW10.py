@@ -12,21 +12,15 @@ else:
     print("Hello World!")
 #2. Create a while loop that prints only even numbers
 #between 1 and 30.
-p = 0
-limit = 30
-
-while p <= limit:
+p = 1
+while p <= 30:
+    p += 1
     if p % 2 == 0:
         print(p)
-        p += 2
 #3. Create a while loop that repeats until the user
 #inputs the number 0.
-k = 0
-while True:
-    number = int(input("Enter a number: "))
-    if number == 0:
-        print("You entered the target number!")
-        break
-    else:
-            print("You entered the wrong number.")
-            break
+
+l = int(input("Enter a number: "))
+while l!= 0:
+    print(l)
+    l = int(input("Enter a number: "))
