@@ -20,7 +20,7 @@ for y in animals:
     print(y)
 #4. Create a for loop that spells out a word you input backwards.
 #(HINT: Google "How to reverse a string in Python")
-l = "Tacobell"
-reversed_string = "".join(reversed(l))
-print(reversed_string)
+for z in input("Give me a word: ")[::-1]:
+    print(z)
+
 
