@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="61cda357-e696-441a-ac0f-e70b811b278a" name="Changes" comment="Makeup Day Fix.">
-      <change afterPath="$PROJECT_DIR$/HW13.py" afterDir="false" />
+    <list default="true" id="61cda357-e696-441a-ac0f-e70b811b278a" name="Changes" comment="Added list and for loop.">
+      <change afterPath="$PROJECT_DIR$/HW14.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,6 +54,7 @@
     "Python.HW11.executor": "Run",
     "Python.HW12.executor": "Run",
     "Python.HW13.executor": "Run",
+    "Python.HW14.executor": "Run",
     "Python.HW2.executor": "Run",
     "Python.HW3.executor": "Run",
     "Python.HW4.executor": "Run",
@@ -304,7 +305,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731353903549</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="Added list and for loop.">
+      <option name="closed" value="true" />
+      <created>1731441899757</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1731441899757</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -326,7 +335,8 @@
     <MESSAGE value="Added Fizzbuzz game code" />
     <MESSAGE value="Added For Loops and reverse string." />
     <MESSAGE value="Makeup Day Fix." />
-    <option name="LAST_COMMIT_MESSAGE" value="Makeup Day Fix." />
+    <MESSAGE value="Added list and for loop." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added list and for loop." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
