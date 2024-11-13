@@ -13,7 +13,7 @@ y = int(input("Give me an integer:"))
 #by every number before it until you reach 1.
 #For example: 5! is 5 x 4 x 3 x 2 x 1 = 120
 for k in range(1, y+1):
-    x = x * k
+    x *= k
 
 #4. Print the factorial.
 print("The factorial of your number is: ", end="")
