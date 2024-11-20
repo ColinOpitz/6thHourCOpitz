@@ -14,7 +14,6 @@ y = int(input("Give me an integer:"))
 #For example: 5! is 5 x 4 x 3 x 2 x 1 = 120
 for k in range(1, y+1):
     x *= k
-
 #4. Print the factorial.
 print("The factorial of your number is: ", end="")
 print(x)
