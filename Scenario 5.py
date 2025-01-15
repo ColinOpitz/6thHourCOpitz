@@ -27,7 +27,6 @@
 import random
 finishedToy = []
 partsList = ["Wheels", "Wings", "Body", "Axle", "Screw", "Propeller", "Engine"]
-vehicles = ["Car", "Truck", "Plane"]
 
 x = input("Choose your toy!(Car, Truck, or Plane) ")
 

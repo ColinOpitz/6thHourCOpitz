@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="61cda357-e696-441a-ac0f-e70b811b278a" name="Changes" comment="Added Scenario 4 code">
-      <change afterPath="$PROJECT_DIR$/Scenario 5.py" afterDir="false" />
+    <list default="true" id="61cda357-e696-441a-ac0f-e70b811b278a" name="Changes" comment="Added Scenario 5 code">
+      <change afterPath="$PROJECT_DIR$/HW15.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scenario 5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Scenario 5.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +56,7 @@
     "Python.HW12.executor": "Run",
     "Python.HW13.executor": "Run",
     "Python.HW14.executor": "Run",
+    "Python.HW15.executor": "Run",
     "Python.HW2.executor": "Run",
     "Python.HW3.executor": "Run",
     "Python.HW4.executor": "Run",
@@ -339,7 +341,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732133174478</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="Added Scenario 5 code">
+      <option name="closed" value="true" />
+      <created>1734033211988</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1734033211988</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -364,7 +374,8 @@
     <MESSAGE value="Added list and for loop." />
     <MESSAGE value="Added loop and factorial code." />
     <MESSAGE value="Added Scenario 4 code" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Scenario 4 code" />
+    <MESSAGE value="Added Scenario 5 code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Scenario 5 code" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
