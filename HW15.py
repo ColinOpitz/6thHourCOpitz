@@ -8,7 +8,7 @@ def hello_world():
 
 #2. Create a def function that calculates the average of three numbers.
 def average_of_three(num1, num2, num3):
-    return (num1 + num2 +num3) / 3
+    return (num1 + num2 + num3) / 3
 a = 10
 b = 20
 c = 30
