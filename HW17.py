@@ -8,13 +8,14 @@ import random
 def hello_world():
     print("Hello World!")
 #2. Create two empty integer variables named "heads" and "tails"
-
+heads = 0
+tails = 0
 #3. Create a def function that flips a coin one hundred times and increments the result in the above variables.
 def flip_coin():
-    heads = 0
-    tails = 0
+    global heads
+    global tails
 
-    for _ in range(100):
+    for i in range(100):
         result = random.choice(["heads", "tails"])
         if result == "heads":
             heads += 1
