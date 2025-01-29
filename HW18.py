@@ -10,10 +10,13 @@ def hello_world():
 beanBag = ["Red", "Blue", "Green", "Purple", "Brown"]
 #3. Create a def function that pulls a random bean out of the beanBag list, prints which bean you pulled, and then removes it from the list.
 def bean_pull():
-    selectedbean = random.choice(beanBag)
-    print(selectedbean)
-    beanBag.remove(selectedbean)
-    repeat_game()
+    if not beanBag:
+        print("The bag is empty")
+    else:
+        selectedbean = random.choice(beanBag)
+        print(selectedbean)
+        beanBag.remove(selectedbean)
+        repeat_game()
 #4. Create a def function that asks if you want to pull another bean out of the bag and, if yes, repeats the #3 def function
 def repeat_game():
     userInput = input("Would you like to pick again? Y/N ")

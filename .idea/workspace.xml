@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="61cda357-e696-441a-ac0f-e70b811b278a" name="Changes" comment="Added HW17 Code">
-      <change afterPath="$PROJECT_DIR$/HW18.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="61cda357-e696-441a-ac0f-e70b811b278a" name="Changes" comment="Added BEAN code" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -383,7 +380,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737575639071</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="Added BEAN code">
+      <option name="closed" value="true" />
+      <created>1738179793052</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1738179793052</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -411,7 +416,8 @@
     <MESSAGE value="Added Scenario 5 code" />
     <MESSAGE value="Added HW15 Code" />
     <MESSAGE value="Added HW17 Code" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added HW17 Code" />
+    <MESSAGE value="Added BEAN code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added BEAN code" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
