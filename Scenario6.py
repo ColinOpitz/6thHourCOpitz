@@ -17,7 +17,9 @@ def roll_four_dice():
     print(finalList)
 roll_four_dice()
 
-for i in range(5):
-    roll_four_dice()
+def repeat():
+    for i in range(5):
+        roll_four_dice()
+repeat()
 #Once that is done, to ensure that the average of the statblock is fair (somewhere roughly between 12-13), he wants you
 #to plug it into a calculator (Scenario 7) and print the average.
