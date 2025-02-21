@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="61cda357-e696-441a-ac0f-e70b811b278a" name="Changes" comment="Added Scenario 6 code">
-      <change afterPath="$PROJECT_DIR$/Scenario 7.py" afterDir="false" />
+    <list default="true" id="61cda357-e696-441a-ac0f-e70b811b278a" name="Changes" comment="Imported Scenario 6 code into Scenario 7">
+      <change afterPath="$PROJECT_DIR$/HW20.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scenario 6.py" beforeDir="false" afterPath="$PROJECT_DIR$/Scenario6.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,6 +61,7 @@
     "Python.HW18.executor": "Run",
     "Python.HW19.executor": "Run",
     "Python.HW2.executor": "Run",
+    "Python.HW20.executor": "Run",
     "Python.HW3.executor": "Run",
     "Python.HW4.executor": "Run",
     "Python.HW5.executor": "Run",
@@ -78,6 +78,7 @@
     "Python.Scenario 6.executor": "Run",
     "Python.Scenario 7.executor": "Run",
     "Python.Scenario.executor": "Run",
+    "Python.Scenario6.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "last_opened_file_path": "C:/Users/6th Hour/PycharmProjects/6thHourCOpitz/Playground.py"
@@ -419,11 +420,18 @@
       <option name="project" value="LOCAL" />
       <updated>1738698096884</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="Imported Scenario 6 code into Scenario 7">
+      <option name="closed" value="true" />
+      <created>1738870159850</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1738870159850</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Added Comments, Hello World print, Name list, and number list." />
     <MESSAGE value="Added HW4" />
     <MESSAGE value="Added Scenario 1 code" />
     <MESSAGE value="Printed Hello World, set num as a variable, and added nested if statements." />
@@ -448,7 +456,8 @@
     <MESSAGE value="Added more BEAN code" />
     <MESSAGE value="Added HW19 code and changed Hw15 code" />
     <MESSAGE value="Added Scenario 6 code" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Scenario 6 code" />
+    <MESSAGE value="Imported Scenario 6 code into Scenario 7" />
+    <option name="LAST_COMMIT_MESSAGE" value="Imported Scenario 6 code into Scenario 7" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
