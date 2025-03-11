@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="61cda357-e696-441a-ac0f-e70b811b278a" name="Changes" comment="Added HW21 code">
-      <change afterPath="$PROJECT_DIR$/HW22.py" afterDir="false" />
+    <list default="true" id="61cda357-e696-441a-ac0f-e70b811b278a" name="Changes" comment="Added HW22 code">
+      <change afterPath="$PROJECT_DIR$/HW23.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,6 +65,7 @@
     "Python.HW20.executor": "Run",
     "Python.HW21.executor": "Run",
     "Python.HW22.executor": "Run",
+    "Python.HW23.executor": "Run",
     "Python.HW3.executor": "Run",
     "Python.HW4.executor": "Run",
     "Python.HW5.executor": "Run",
@@ -463,11 +464,18 @@
       <option name="project" value="LOCAL" />
       <updated>1741031132104</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="Added HW22 code">
+      <option name="closed" value="true" />
+      <created>1741290725993</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1741290725993</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Printed Helo World, set num as a variable, and added nested if statements." />
     <MESSAGE value="Printed Helo World, set boolean variables, and added nested if statements." />
     <MESSAGE value="Printed Helo World, set boolean variables, and added nested if statements. Fixed nested error statements" />
     <MESSAGE value="Added party dictionary and enemy dictionary. Added the comabt code." />
@@ -492,7 +500,8 @@
     <MESSAGE value="Added def function" />
     <MESSAGE value="AI stuff" />
     <MESSAGE value="Added HW21 code" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added HW21 code" />
+    <MESSAGE value="Added HW22 code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added HW22 code" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
