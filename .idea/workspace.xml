@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="61cda357-e696-441a-ac0f-e70b811b278a" name="Changes" comment="Added Scenario 8 code">
-      <change afterPath="$PROJECT_DIR$/HW24.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="61cda357-e696-441a-ac0f-e70b811b278a" name="Changes" comment="Added HW24 code" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,48 +44,49 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.AI Playground.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HW1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HW10.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HW11.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HW12.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HW13.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HW14.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HW15.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HW16.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HW17.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HW18.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HW19.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HW2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HW20.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HW21.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HW22.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HW23.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HW3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HW4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HW5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HW6.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HW7.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HW8.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HW9.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HelloWorld.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Playground.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Scenario 2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Scenario 3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Scenario 4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Scenario 5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Scenario 6.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Scenario 7.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Scenario 8.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Scenario.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Scenario6.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/6th Hour/PycharmProjects/6thHourCOpitz/Playground.py&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.AI Playground.executor": "Run",
+    "Python.HW1.executor": "Run",
+    "Python.HW10.executor": "Run",
+    "Python.HW11.executor": "Run",
+    "Python.HW12.executor": "Run",
+    "Python.HW13.executor": "Run",
+    "Python.HW14.executor": "Run",
+    "Python.HW15.executor": "Run",
+    "Python.HW16.executor": "Run",
+    "Python.HW17.executor": "Run",
+    "Python.HW18.executor": "Run",
+    "Python.HW19.executor": "Run",
+    "Python.HW2.executor": "Run",
+    "Python.HW20.executor": "Run",
+    "Python.HW21.executor": "Run",
+    "Python.HW22.executor": "Run",
+    "Python.HW23.executor": "Run",
+    "Python.HW24.executor": "Run",
+    "Python.HW3.executor": "Run",
+    "Python.HW4.executor": "Run",
+    "Python.HW5.executor": "Run",
+    "Python.HW6.executor": "Run",
+    "Python.HW7.executor": "Run",
+    "Python.HW8.executor": "Run",
+    "Python.HW9.executor": "Run",
+    "Python.HelloWorld.executor": "Run",
+    "Python.Playground.executor": "Run",
+    "Python.Scenario 2.executor": "Run",
+    "Python.Scenario 3.executor": "Run",
+    "Python.Scenario 4.executor": "Run",
+    "Python.Scenario 5.executor": "Run",
+    "Python.Scenario 6.executor": "Run",
+    "Python.Scenario 7.executor": "Run",
+    "Python.Scenario 8.executor": "Run",
+    "Python.Scenario.executor": "Run",
+    "Python.Scenario6.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/6th Hour/PycharmProjects/6thHourCOpitz/Playground.py"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -489,11 +487,18 @@
       <option name="project" value="LOCAL" />
       <updated>1741890945168</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="Added HW24 code">
+      <option name="closed" value="true" />
+      <created>1742928852065</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1742928852065</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Added party dictionary and enemy dictionary. Added the comabt code." />
     <MESSAGE value="Added print statement" />
     <MESSAGE value="Added all new code" />
     <MESSAGE value="Added temperature variable and if statements." />
@@ -518,7 +523,8 @@
     <MESSAGE value="Added HW22 code" />
     <MESSAGE value="Added HW23 code" />
     <MESSAGE value="Added Scenario 8 code" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Scenario 8 code" />
+    <MESSAGE value="Added HW24 code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added HW24 code" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
